@@ -1,0 +1,7 @@
+Hinweis zur Datenquelle:
+
+Die verwendeten Daten stammen aus dem öffentlichen Datensatz "TMDb 5000 Movie Dataset" auf Kaggle:
+https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
+
+Bitte beachte die Lizenzbedingungen der TMDb und Kaggle-Plattform.
+Die CSV-Dateien wurden lokal verwendet, aber nicht direkt in dieses Repository hochgeladen.
